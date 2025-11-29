@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivaanshe
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning python,c++
+- 🌱 I’m currently learning c++,linux
 - 📫 How to reach me shivaanshtiwari2006@gmail.com
 
 
