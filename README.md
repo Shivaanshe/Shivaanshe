@@ -2,10 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;App+Development+Enthusiast;JavaScript+%7C+React+%7C+Node.js;Building+Digital+Solutions" alt="Typing SVG" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/7lovescode/7lovescode/main/Coding.gif" width="300" alt="Coding GIF" />
+</div> -->
+<div align="center">
+  <img src="./Coding.gif" width="300" alt="Coding GIF" />
 </div>
-
 <div align="center">
 
 # 👋 Hi, I'm Shivaansh Tiwari
@@ -14,11 +16,11 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:shivaanshtiwari2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/shivaansh-tiwari-13700233a)
-[![GitHub followers](https://img.shields.io/github/followers/Shivaanshe?style=for-the-badge&logo=github&labelColor=1a1a1a)](https://github.com/Shivaanshe)
+[![GitHub](https://img.shields.io/badge/GitHub-Shivaanshe-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/Shivaanshe)
 <br><br>
 ![Profile Views](https://komarev.com/ghpvc/?username=Shivaanshe&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
----
+
 
 </div>
 
