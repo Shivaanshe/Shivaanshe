@@ -18,8 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/shivaansh-tiwari-13700233a)
 [![GitHub](https://img.shields.io/badge/GitHub-Shivaanshe-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/Shivaanshe)
 <br><br>
-![Profile Views](https://komarev.com/ghpvc/?username=Shivaanshe&color=blueviolet&style=for-the-badge&label=Profile+Views)
-
+![Profile Views](https://komarev.com/ghpvc/?username=Shivaanshe&color=blueviolet&style=for-the-badge&label=Profile+Views&cache=1)
 
 
 </div>
